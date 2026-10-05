@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Portfolio Website: UI Design
 
 A personal portfolio website design built in Figma, with a clickable prototype. It presents my projects, experience, and contact details in a clean, dark, single-column layout.
@@ -7,9 +6,10 @@ A personal portfolio website design built in Figma, with a clickable prototype. 
 
 ## Preview
 
-![Home page overview](assets/home-overview.png)
+![Home page overview](<img width="720" height="2388" alt="Home" src="https://github.com/user-attachments/assets/14344454-b7ca-4c82-9706-67dc24a7ef66" />
+)
 
-**Live prototype:** [Open in Figma](YOUR_FIGMA_PROTOTYPE_LINK)
+**Live prototype:** [Open in Figma](https://www.figma.com/design/vicQiqCnkb1cbm8bCkWqHI/Projects-Portfolio?node-id=209-3419&t=TAWp1vI5ojSIMMQb-1)
 
 ## Pages
 
@@ -54,8 +54,6 @@ A personal portfolio website design built in Figma, with a clickable prototype. 
 - [x] Components and variants
 - [ ] Complete prototype interactions
 - [ ] Mobile layout (390 px)
-- [ ] Develop with React, Vite, and Tailwind CSS
-- [ ] Deploy
 
 ## Credits
 
