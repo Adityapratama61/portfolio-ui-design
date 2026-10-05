@@ -6,7 +6,7 @@ A personal portfolio website design built in Figma, with a clickable prototype. 
 
 ## Preview
 
-![Home page overview] <img width="720" height="2388" alt="image" src="https://github.com/user-attachments/assets/becdee66-52e2-4ea8-b3e5-06d6775d4f9a" />
+<img width="720" height="2388" alt="image" src="https://github.com/user-attachments/assets/becdee66-52e2-4ea8-b3e5-06d6775d4f9a" />
 
 **Live prototype:** [Open in Figma](https://www.figma.com/design/vicQiqCnkb1cbm8bCkWqHI/Projects-Portfolio?node-id=209-3419&t=TAWp1vI5ojSIMMQb-1)
 
