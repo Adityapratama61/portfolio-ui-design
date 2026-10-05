@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Portfolio Website: UI Design
 
 A personal portfolio website design built in Figma, with a clickable prototype. It presents my projects, experience, and contact details in a clean, dark, single-column layout.
@@ -68,3 +69,6 @@ Frontend Developer, Bekasi, Indonesia
 - GitHub: [Adityapratama61](https://github.com/Adityapratama61)
 - LinkedIn: [aditya-pratama](https://linkedin.com/in/aditya-pratama)
 - Email: adtyprtm61@gmail.com
+=======
+# portfolio-ui-design
+>>>>>>> 36997dad3229252f587ff5ab245e383b0dc66ea0
